@@ -1,0 +1,9 @@
+<repo>
+    <footerlinks>
+        <link>
+            <name>Follow us on Twitter</name>
+            <url>https://twitter.com/framedevs</url>
+            <iconclass>glyphicon glyphicon-user</iconclass>
+        </link>
+    </footerlinks>
+</repo>
