@@ -19,8 +19,7 @@
 							"accessibilityText": "HomeScreen2",
 							"url": "https://framedevs.github.io/repo/depictions/com.verb0sedev.thanosdance/screenshots/screenshot2.png",
 							"fullSizeURL": "https://framedevs.github.io/repo/depictions/com.verb0sedev.thanosdance/screenshots/screenshot2.png"
-						},
-						
+						},	
 					],
 					"ipad": {
 						"itemCornerRadius": 9,
@@ -35,8 +34,7 @@
 								"accessibilityText": "HomeScreen2",
 								"url": "https://framedevs.github.io/repo/depictions/com.verb0sedev.thanosdance/screenshots/2.png?size=640",
 								"fullSizeURL": "https://framedevs.github.io/repo/depictions/com.verb0sedev.thanosdance/screenshots/screenshot2.png"
-							},
-							
+							},	
 						],
 						"class": "DepictionScreenshotView"
 					},
