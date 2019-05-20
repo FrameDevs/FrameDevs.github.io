@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: verb0sedev
 Depends: firmware (>=11.2)
 Architecture: iphoneos-arm
-Filename: ./debs/com.verb0sedev.thanosdance.deb
+Filename: https://framerepo.github.io/repo/debs/com.verb0sedev.thanosdance.deb
 Size: 6632144
 MD5sum: 660FD06AFF2AD3E4CC53A031349C35D5
 SHA1: F69AC83E6A873663E99E5E8334F6D4C870FF1B6F
@@ -12,6 +12,6 @@ SHA256: A32E90AF9F49F5F9D73681DA107154E0D205DFB5CF8A88BEDBE32FED068E012B
 Description: A simple yet elegant way of seeing thanos and spideyboy. ThanosDance is a free tweak for iOS.
 Name: ThanosDance
 Author: verb0sedev
-SileoDepiction: /repo/sileodepictions/com.verb0sedev.thanosdance/depiction.json
-Depiction: /repo/depictions/?p=com.verb0sedev.thanosdance
-Icon: repo/assets/TweakIcons/thanospic.jpg
+SileoDepiction: https://framerepo.github.io/repo/sileodepictions/com.verb0sedev.thanosdance/depiction.json
+Depiction: https://framerepo.github.io/repo/depictions/?p=com.verb0sedev.thanosdance
+Icon: https://framerepo.github.io/repo/assets/TweakIcons/thanospic.jpg
