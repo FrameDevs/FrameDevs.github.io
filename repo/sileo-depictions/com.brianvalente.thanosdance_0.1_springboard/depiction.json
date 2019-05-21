@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://framedevs.github.io/repo/assets/banners/frame.png",
+	"headerImage": "https://framerepo.github.io/repo/assets/banners/frame.png",
 	"tintColor": "#39ff83",
 	"tabs": [
 		{
@@ -12,13 +12,13 @@
 					"screenshots": [
 						{
 							"accessibilityText": "HomeScreen1",
-							"url": "https://framedevs.github.io/repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/screenshot1.png",
-							"fullSizeURL": "https://framedevs.github.io/repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/screenshot1.png"
+							"url": "https://framerepo.github.io/repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/screenshot1.png",
+							"fullSizeURL": "https://framerepo.github.io/repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/screenshot1.png"
 						},
 						{
 							"accessibilityText": "HomeScreen2",
-							"url": "https://framedevs.github.io/repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/screenshot2.png",
-							"fullSizeURL": "https://framedevs.github.io/repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/screenshot2.png"
+							"url": "https://framerepo.github.io/repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/screenshot2.png",
+							"fullSizeURL": "https://framerepo.github.io/repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/screenshot2.png"
 						},	
 					],
 					"ipad": {
@@ -27,13 +27,13 @@
 						"screenshots": [
 							{
 								"accessibilityText": "HomeScreen1",
-								"url": "https://framedevs.github.io/repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/screenshot1.png?size=640",
-								"fullSizeURL": "https://framedevs.github.io/repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/screenshot1.png"
+								"url": "https://framerepo.github.io/repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/screenshot1.png?size=640",
+								"fullSizeURL": "https://framerepo.github.io/repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/screenshot1.png"
 							},
 							{
 								"accessibilityText": "HomeScreen2",
-								"url": "https://framedevs.github.io/repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/2.png?size=640",
-								"fullSizeURL": "https://framedevs.github.io/repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/screenshot2.png"
+								"url": "https://framerepo.github.io/repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/2.png?size=640",
+								"fullSizeURL": "https://framerepo.github.io/repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/screenshot2.png"
 							},	
 						],
 						"class": "DepictionScreenshotView"

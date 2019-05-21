@@ -4,7 +4,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://framedevs.github.io/repo/assets/banners/frame.png",
+        "url": "https://framerepo.github.io/repo/assets/banners/frame.png",
         "title": "ThanosDance",
         "package": "com.brianvalente.thanosdance_0.1_springboard",
         "hideShadow": false
