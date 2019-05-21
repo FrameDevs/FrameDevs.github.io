@@ -19,7 +19,7 @@
     {
         "url": "https://framedevs.github.io/repo/assets/Banners/Frame.png",
         "title": "Cylinder",
-        "package": "",
+        "package": "com.brianvalente.thanosdance_0.1_springboard",
         "hideShadow": false
     }
   ]
