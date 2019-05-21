@@ -6,9 +6,9 @@ Depends: firmware (>=11.2)
 Architecture: iphoneos-arm
 Filename: https://framedevs.github.io/repo/debs/com.brianvalente.thanosdance_0.1_springboard.deb
 Size: 6632144
-MD5sum: 660FD06AFF2AD3E4CC53A031349C35D5
-SHA1: F69AC83E6A873663E99E5E8334F6D4C870FF1B6F
-SHA256: A32E90AF9F49F5F9D73681DA107154E0D205DFB5CF8A88BEDBE32FED068E012B
+MD5sum: 660fd06aff2ad3e4cc53a031349c35d5
+SHA1: f69ac83e6a873663e99e5e8334f6d4c870ff1b6f
+SHA256: a32e90af9f49f5f9d73681da107154e0d205dfb5cf8a88bedbe32fed068e012b
 Description: A simple yet elegant way of seeing thanos and spideyboy. ThanosDance is a free tweak for iOS.
 Name: ThanosDance
 Author: Brian Valente
