@@ -4,9 +4,22 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://framedevs.github.io/repo/assets/Banners/Frame.jpg",
+        "url": "https://framedevs.github.io/repo/assets/Banners/Frame.png",
         "title": "ThanosDance",
-        "package": "com.verb0sedev.thanosdance",
+        "package": "com.brianvalente.thanosdance_0.1_springboard",
+        "hideShadow": false
+    }
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://framedevs.github.io/repo/assets/Banners/Frame.png",
+        "title": "Cylinder",
+        "package": "",
         "hideShadow": false
     }
   ]

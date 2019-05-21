@@ -1,5 +1,5 @@
 <package>
-	<id>com.verb0sedev.thanosdance</id>
+	<id>com.brianvalente.thanosdance_0.1_springboard</id>
 	<name>ThanosDance</name>
 	<version>0.1</version>
 	<compatibility>
@@ -18,11 +18,11 @@
 	<screenshots>
 		<screenshot>
 			<description>HomeScreen1</description>
-			<image>repo/depictions/com.verb0sedev.thanosdance/screenshots/screenshot1.png</image>
+			<image>repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/screenshot1.png</image>
 		</screenshot>		
 		<screenshot>
 			<description>HomeScreen2</description>
-			<image>repo/depictions/com.verb0sedev.thanosdance/screenshots/screenshot2.png</image>
+			<image>repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/screenshot2.png</image>
 		</screenshot>
     <screenshot>
 	<changelog>
