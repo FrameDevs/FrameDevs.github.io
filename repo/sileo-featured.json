@@ -11,3 +11,16 @@
     }
   ]
 }
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://framedevs.github.io/repo/assets/banners/1.png",
+        "title": "SileoTest",
+        "package": "com.verb0sedev.sileotest",
+        "hideShadow": false
+    }
+  ]
+}

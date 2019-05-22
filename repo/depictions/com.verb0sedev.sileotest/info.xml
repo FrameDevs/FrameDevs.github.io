@@ -1,0 +1,38 @@
+<package>
+	<id>com.verb0sedev.sileotest</id>
+	<name>SileoTest</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.2</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>Test Package.Yeet.</shortDescription>
+	<descriptionlist>
+    <description>Test Package.</description>
+		<description>Test.</description>
+		<description>Test https://framedevs.github.io/!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>HomeScreen1</description>
+			<image>https://framedevs.github.io/repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/screenshot1.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>HomeScreen2</description>
+			<image>https://framedevs.github.io/repo/depictions/com.brianvalente.thanosdance_0.1_springboard/screenshots/screenshot2.png</image>
+		</screenshot>
+    <screenshot>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Need Help?</name>
+			<url>https://github.com/framedevs</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>

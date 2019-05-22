@@ -15,3 +15,21 @@ Author: Brian Valente
 SileoDepiction: https://framedevs.github.io/repo/sileo-depictions/com.brianvalente.thanosdance_0.1_springboard/depiction.json
 Depiction: https://framedevs.github.io/repo/depictions/?p=com.brianvalente.thanosdance_0.1_springboard
 Icon: https://framedevs.github.io/repo/assets/banners/2.png
+
+Package: com.verb0sedev.sileotest
+Version: 0.1
+Section: TestTweaks
+Maintainer: verb0sedev
+Depends: firmware (>=11.2)
+Architecture: iphoneos-arm
+Filename: https://framedevs.github.io/repo/debs/com.verb0sedev.sileotest.deb
+Size: 6632144
+MD5sum: 660fd06aff2ad3e4cc53a031349c35d5
+SHA1: f69ac83e6a873663e99e5e8334f6d4c870ff1b6f
+SHA256: a32e90af9f49f5f9d73681da107154e0d205dfb5cf8a88bedbe32fed068e012b
+Description: Test Package.Yeet.
+Name: SileoTest
+Author: verb0sedev
+SileoDepiction: https://framedevs.github.io/repo/sileo-depictions/com.verb0sedev.sileotest/depiction.json
+Depiction: https://framedevs.github.io/repo/depictions/?p=com.verb0sedev.sileotest
+Icon: https://framedevs.github.io/repo/assets/banners/1.png
