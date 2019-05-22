@@ -1,7 +1,7 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://framedevs.github.io/repo/assets/banners/2.png",
-	"tintColor": "#39ff83",
+	"tintColor": "#5d488b",
 	"tabs": [
 		{
 			"tabname": "Details",
