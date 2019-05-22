@@ -9,13 +9,6 @@
         "package": "com.brianvalente.thanosdance_0.1_springboard",
         "hideShadow": false
     }
-  ]
-}
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{296, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
     {
         "url": "https://framedevs.github.io/repo/assets/banners/1.png",
         "title": "SileoTest",
