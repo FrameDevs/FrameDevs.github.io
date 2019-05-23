@@ -1,0 +1,38 @@
+<package>
+	<id>com.verb0sedev.bruh</id>
+	<name>Bruh.</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.2</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>Activator listener to play bruh sound effect #2.</shortDescription>
+	<descriptionlist>
+    <description>Activator listener to play bruh sound effect #2.Bruh is a free tweak for iOS.</description>
+		<description></description>
+		<description>https://framedevs.github.io/!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>HomeScreen1</description>
+			<image>https://framedevs.github.io/repo/depictions/com.verb0sedev.bruh/screenshots/screenshot1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>HomeScreen2</description>
+			<image>https://framedevs.github.io/repo/depictions/com.verb0sedev.bruh/screenshots/screenshot1.jpg</image>
+		</screenshot>
+    <screenshot>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Need Help?</name>
+			<url>https://github.com/framedevs</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>

@@ -1,0 +1,124 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://framedevs.github.io/repo/assets/banners/1.png",
+	"tintColor": "#ff0000",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{160, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "HomeScreen1",
+							"url": "https://framedevs.github.io/repo/depictions/com.verb0sedev.callbarxs/screenshots/screenshot1.png",
+							"fullSizeURL": "https://framedevs.github.io/repo/depictions/com.verb0sedev.callbarxs/screenshots/screenshot1.png"
+						},
+						{
+							"accessibilityText": "HomeScreen2",
+							"url": "https://framedevs.github.io/repo/depictions/com.verb0sedev.callbarxs/screenshots/screenshot2.png",
+							"fullSizeURL": "https://framedevs.github.io/repo/depictions/com.verb0sedev.callbarxs/screenshots/screenshot2.png"
+						},	
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{350, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "HomeScreen1",
+								"url": "https://framedevs.github.io/repo/depictions/com.verb0sedev.callbarxs/screenshots/screenshot1.png?size=640",
+								"fullSizeURL": "https://framedevs.github.io/repo/depictions/com.verb0sedev.callbarxs/screenshots/screenshot1.png"
+							},
+							{
+								"accessibilityText": "HomeScreen2",
+								"url": "https://framedevs.github.io/repo/depictions/com.verb0sedev.callbarxs/screenshots/2.png?size=640",
+								"fullSizeURL": "https://framedevs.github.io/repo/depictions/com.verb0sedev.callbarxs/screenshots/screenshot2.png"
+							},	
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## CallBarXS\nCallBarXS replaces the obsolete call display from iOS 7 and make it less intrusive.\nCallBarXS is a free tweak for iOS."
+				},
+				{
+					"title": "Check out the repo here!",
+					"action": "https://github.com/framedevs",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "23/5/19",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Compatibility",
+					"text": "iOS 12.0 to 12.2",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "FREE",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "verb0sedev",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Github",
+					"action": "https://github.com/framedev",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 First Upload.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 20/5/19</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

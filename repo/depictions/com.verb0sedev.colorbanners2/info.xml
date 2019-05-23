@@ -1,0 +1,38 @@
+<package>
+	<id>com.verb0sedev.colorbanners2</id>
+	<name>ColorBanners2</name>
+	<version>1.2.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>ColorBanners2 checks color from appicon and replaces it in notifications.</shortDescription>
+	<descriptionlist>
+    <description>ColorBanners2 checks color from appicon and replaces it in notifications.ColorBanners2 is a free tweak for iOS.</description>
+		<description></description>
+		<description>https://framedevs.github.io/!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>HomeScreen1</description>
+			<image>https://framedevs.github.io/repo/depictions/com.verb0sedev.colorbanners2/screenshots/screenshot1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>HomeScreen2</description>
+			<image>https://framedevs.github.io/repo/depictions/com.verb0sedev.colorbanners2/screenshots/screenshot2.jpg</image>
+		</screenshot>
+    <screenshot>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Need Help?</name>
+			<url>https://github.com/framedevs</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>
