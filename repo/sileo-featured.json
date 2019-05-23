@@ -10,9 +10,21 @@
         "hideShadow": false
     },
     {
+        "url": "https://framedevs.github.io/repo/assets/banners/bruh.png",
+        "title": "Bruh",
+        "package": "com.verb0sedev.bruh",
+        "hideShadow": false
+    },
+	{
         "url": "https://framedevs.github.io/repo/assets/banners/1.png",
-        "title": "SileoTest",
-        "package": "com.verb0sedev.sileotest",
+        "title": "ColorBanners2",
+        "package": "com.verb0sedev.colorbanners2",
+        "hideShadow": false
+    },
+	{
+        "url": "https://framedevs.github.io/repo/assets/banners/1.png",
+        "title": "CallBarXS",
+        "package": "com.verb0sedev.callbarxs",
         "hideShadow": false
     },
   ]

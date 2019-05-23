@@ -16,20 +16,56 @@ SileoDepiction: https://framedevs.github.io/repo/sileo-depictions/com.brianvalen
 Depiction: https://framedevs.github.io/repo/depictions/?p=com.brianvalente.thanosdance_0.1_springboard
 Icon: https://framedevs.github.io/repo/assets/banners/2.png
 
-Package: com.verb0sedev.sileotest
-Version: 0.1
-Section: TestTweaks
+Package: com.verb0sedev.bruh
+Version: 1.0
+Section: Activator
 Maintainer: verb0sedev
 Depends: firmware (>=11.2)
 Architecture: iphoneos-arm
-Filename: https://framedevs.github.io/repo/debs/com.verb0sedev.sileotest.deb
-Size: 6632144
-MD5sum: 660fd06aff2ad3e4cc53a031349c35d5
-SHA1: f69ac83e6a873663e99e5e8334f6d4c870ff1b6f
-SHA256: a32e90af9f49f5f9d73681da107154e0d205dfb5cf8a88bedbe32fed068e012b
-Description: Test Package.Yeet.
-Name: SileoTest
+Filename: https://framedevs.github.io/repo/debs/com.verb0sedev.bruh.deb
+Size: 46290 
+MD5sum: 2eb5d39daaa89d956cd5d31142d51e2b
+SHA1: 28ccb8f66835031c37382986ec12538379c56242
+SHA256: 1dadaf3208978430ca643e9421cfbce10adb0485c1d156b19f52d576f1a0d280
+Description: Activator listener to play bruh sound effect #2.Bruh is a free tweak for iOS.
+Name: Bruh.
 Author: verb0sedev
-SileoDepiction: https://framedevs.github.io/repo/sileo-depictions/com.verb0sedev.sileotest/depiction.json
-Depiction: https://framedevs.github.io/repo/depictions/?p=com.verb0sedev.sileotest
-Icon: https://framedevs.github.io/repo/assets/banners/1.png
+SileoDepiction: https://framedevs.github.io/repo/sileo-depictions/com.verb0sedev.bruh/depiction.json
+Depiction: https://framedevs.github.io/repo/depictions/?p=com.verb0sedev.bruh
+Icon: https://framedevs.github.io/repo/assets/banners/bruh.png
+
+Package: com.verb0sedev.colorbanners2
+Version: 1.2.4
+Section: Tweaks
+Maintainer: verb0sedev
+Depends: firmware (>=11.0)
+Architecture: iphoneos-arm
+Filename: https://framedevs.github.io/repo/debs/com.verb0sedev.colorbanners2.deb
+Size: 730282
+MD5sum: bbdc8523ed52089a2216739f01cd0e34
+SHA1: 79cdf3588353e6b72671cc0218bdbe245274c58b
+SHA256: 0ce93aba7c4c4a1f940ec16b18072384c19ed6557d9eeef4bbe74eb6e668969b
+Description: ColorBanners2 checks color from appicon and replaces it in notifications.ColorBanners2 is a free tweak for iOS.
+Name: ColorBanners2
+Author: verb0sedev
+SileoDepiction: https://framedevs.github.io/repo/sileo-depictions/com.verb0sedev.colorbanners2/depiction.json
+Depiction: https://framedevs.github.io/repo/depictions/?p=com.verb0sedev.colorbanners2
+Icon: https://framedevs.github.io/repo/assets/banners/cb2.png
+
+Package: com.verb0sedev.callbarxs
+Version: 1.0
+Section: Tweaks
+Maintainer: verb0sedev
+Depends: firmware (>=12.0)
+Architecture: iphoneos-arm
+Filename: https://framedevs.github.io/repo/debs/com.verb0sedev.callbarxs.deb
+Size: 406546
+MD5sum: ae73032068e4ae36480ad44b8268cdd0
+SHA1: 1596086256127445518893c5d665c6bdb42713e2
+SHA256: c22bec9e6ef46d1e8c8440cc226230a1353b36081ecfaead542cf745e8df3ec2
+Description: CallBarXS replaces the obsolete call display from iOS 7 and make it less intrusive.CallBarXS is a free tweak for iOS.
+Name: CallBarXS
+Author: verb0sedev
+SileoDepiction: https://framedevs.github.io/repo/sileo-depictions/com.colorbanners2.callbarxs/depiction.json
+Depiction: https://framedevs.github.io/repo/depictions/?p=com.verb0sedev.callbarxs
+Icon: https://framedevs.github.io/repo/assets/banners/cbxs.png
