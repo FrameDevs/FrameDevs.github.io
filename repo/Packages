@@ -66,6 +66,6 @@ SHA256: c22bec9e6ef46d1e8c8440cc226230a1353b36081ecfaead542cf745e8df3ec2
 Description: CallBarXS replaces the obsolete call display from iOS 7 and make it less intrusive.CallBarXS is a free tweak for iOS.
 Name: CallBarXS
 Author: verb0sedev
-SileoDepiction: https://framedevs.github.io/repo/sileo-depictions/com.colorbanners2.callbarxs/depiction.json
+SileoDepiction: https://framedevs.github.io/repo/sileo-depictions/com.verb0sedev.callbarxs/depiction.json
 Depiction: https://framedevs.github.io/repo/depictions/?p=com.verb0sedev.callbarxs
 Icon: https://framedevs.github.io/repo/assets/banners/cbxs.png
